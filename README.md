@@ -18,11 +18,13 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Enjoy working with ReactJS , VueJS , Javascripts ❤
 
 ## Working 
-<a href="https://github.com/charlesanhv257"><img align="center" width="100%" height="628" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+<a href="https://github.com/charlesanhv257"><img align="center" width="100%" height="628" src="https://github.com/charlesanhv257/charlesanhv257/blob/main/wp9641797.png?raw=true"></a>
 
 <br />
 
 ## Projects for sharing
 
-- use-scroll-progress hook: https://github.com/charlesanhv257?tab=repositories
-- ReactJS App: https://github.com/charlesanhv257?tab=repositories
+- Base Mobx: https://github.com/charlesanhv257?tab=repositories
+- Base ant-design: https://github.com/charlesanhv257?tab=repositories
+- Base saga: https://github.com/charlesanhv257?tab=repositories
+- Base Redux-toolkit: https://github.com/charlesanhv257?tab=repositories

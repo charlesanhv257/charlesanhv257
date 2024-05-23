@@ -9,7 +9,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - **Frameworks và Libraries**: React, Next.js, Angular, Vue.js, Redux, MobX, React Native
 - **Công cụ và công nghệ**: Git, Webpack, Babel, Docker, Jenkins, Web3.js, Ethers.js
 - **UI/UX**: HTML5, CSS3, SASS, LESS, Tailwind CSS, Bootstrap, Ant Design (antd), shadcn-ui
-- **Blockchain**: Ethereum, Smart Contracts, Truffle, Hardhat, MetaMask
+- **Blockchain và Web3**: Ethereum, Smart Contracts, Truffle, Hardhat, MetaMask, Web3.js, Ethers.js
 - **State Management**: Redux, MobX, RTK Query
 - **Testing**: Jest, Cypress, Mocha, Chai
 - **Phương pháp làm việc**: Agile, Scrum, Kanban
@@ -17,6 +17,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - **SEO và Marketing**: Google Tag Manager, Google Analytics, SEO website
 - **Kỹ năng quản lý**: Lãnh đạo nhóm, Quản lý thời gian, Lập kế hoạch và điều phối dự án, Giao tiếp và đàm phán
 - **Frameworks và Extensions**: Mở rộng tính năng của ứng dụng thông qua việc làm việc với frameworks và extensions
+
 
 ### JavaScript Quan trọng:
 - **Asynchronous Programming**: Sử dụng Promises, Async/Await

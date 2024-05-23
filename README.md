@@ -28,8 +28,9 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## 🌟 Dự án tiêu biểu
 ### [Statistr](https://statistr.com/)
-- Mô tả ngắn về dự án và công nghệ sử dụng.
-- Đóng góp của bạn trong dự án.
+- **Vai trò:** Lead Frontend Developer
+- **Mô tả:** Xây dựng và triển khai một nền tảng thông tin dự án tiền điện tử và các quỹ đầu tư hoàn chỉnh từ đầu, bao gồm cả giao diện người dùng và tích hợp API.
+- **Công nghệ sử dụng:** React, Redux, Next.js, Tailwind CSS, Jest ...
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Profile in public on <a href="https://www.facebook.com/developer257/">Facebook</a> 📹 ✍🏾

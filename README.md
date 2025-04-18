@@ -52,7 +52,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## Projects for sharing
 
-- Base Mobx: https://github.com/charlesanhv257?tab=repositories
+- React 19 + Vite + TypeScript Starter Template: https://github.com/charlesanhv257?tab=repositories
 - Base ant-design: https://github.com/charlesanhv257?tab=repositories
 - Base saga: https://github.com/charlesanhv257?tab=repositories
 - Base Redux-toolkit: https://github.com/charlesanhv257?tab=repositories
